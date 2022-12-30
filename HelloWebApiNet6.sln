@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebApiNet6", "HelloWebApiNet6\HelloWebApiNet6.csproj", "{4BDE7CD9-0040-49B7-9B5C-8671BDA220AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDE7CD9-0040-49B7-9B5C-8671BDA220AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDE7CD9-0040-49B7-9B5C-8671BDA220AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDE7CD9-0040-49B7-9B5C-8671BDA220AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDE7CD9-0040-49B7-9B5C-8671BDA220AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB01E07-2B92-4F05-8501-737E8C47F043}
+	EndGlobalSection
+EndGlobal
